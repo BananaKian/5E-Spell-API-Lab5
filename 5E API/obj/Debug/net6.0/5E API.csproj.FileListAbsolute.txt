@@ -1,0 +1,18 @@
+C:\Users\Owner\source\repos\5E API\5E API\bin\Debug\net6.0\5E API.exe
+C:\Users\Owner\source\repos\5E API\5E API\bin\Debug\net6.0\5E API.deps.json
+C:\Users\Owner\source\repos\5E API\5E API\bin\Debug\net6.0\5E API.runtimeconfig.json
+C:\Users\Owner\source\repos\5E API\5E API\bin\Debug\net6.0\5E API.dll
+C:\Users\Owner\source\repos\5E API\5E API\bin\Debug\net6.0\5E API.pdb
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.AssemblyInfo.cs
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.dll
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\refint\5E API.dll
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.pdb
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.genruntimeconfig.cache
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\ref\5E API.dll
+C:\Users\Owner\source\repos\5E API\5E API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Owner\source\repos\5E API\5E API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\5E API\5E API\obj\Debug\net6.0\5E API.csproj.CopyComplete

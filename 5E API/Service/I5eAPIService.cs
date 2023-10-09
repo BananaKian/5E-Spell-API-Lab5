@@ -10,6 +10,6 @@ namespace _5E_API.Service
 {
     public interface I5eAPIService
     {
-        Task<Spells> GetSpells(string spellIndex);
+        Task<Spells> GetSpell(string name);
     }
 }
